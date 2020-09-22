@@ -14,11 +14,8 @@ To run the web app service, do<br>
 </code><br>
 Open http://localhost:5000/ on your local machine.
 ## In action
-<br>
-### Homepage
-<br>
-![](https://github.com/sonwanesuresh95/wordcloud_generator_webapp/blob/master/generated_wc.png)
-### Response
-<br>
-![](https://github.com/sonwanesuresh95/wordcloud_generator_webapp/blob/master/Wordcloud%20Generator.png)
+## Homepage
+![](https://github.com/sonwanesuresh95/wordcloud_generator_webapp/blob/master/generated_wc.png "homepage")
+## Response
+![](https://github.com/sonwanesuresh95/wordcloud_generator_webapp/blob/master/Wordcloud%20Generator.png "wordcloud")
 
