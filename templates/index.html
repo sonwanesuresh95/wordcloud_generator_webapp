@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wordcloud Generator</title>
+</head>
+<body>
+<h1 align="center">This is WebApp for generating wordcloud</h1>
+<form action="/generate" method="post">
+    <p align="center">Enter Text here:</p>
+    <p align="center"><textarea id="text" name="text" rows="5" cols="100">
+    </textarea></p>
+    <p align="center"><input type="submit" value="Generate WordCloud"></p>
+</form>
+<p align="center">Generated Wordcloud</p>
+<p align="center">
+<img src="/{{ path }}" align="center">
+</p>
+</body>
+</html>
